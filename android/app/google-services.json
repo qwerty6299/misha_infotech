@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220809983542",
+    "project_id": "misho-84675",
+    "storage_bucket": "misho-84675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220809983542:android:04c6211f58053fa3c68a97",
+        "android_client_info": {
+          "package_name": "com.example.mishainfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220809983542-7binb3v9hlkn74jjqvm68eqpff5hscb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2m26lEabGJYP4Sj3DYJjLlZLtStd9c14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220809983542-7binb3v9hlkn74jjqvm68eqpff5hscb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
